@@ -5,7 +5,7 @@ based on command given as input,,
 execute all given command on list and print
 the list in a single line when given command is "print"
 exmp:
-5
+9
 insert 0 5
 insert 1 10
 insert 0 6
